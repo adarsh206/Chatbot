@@ -1,7 +1,7 @@
 # Chatbot
 Created a simple chatbot app with the help of HTML, CSS &amp; Javascript and OpenAI API Key.
 
-#Description:
+# Description:
 
 1. Created a simple chatbot with HTML, CSS & Javascript and OpenAI.
 2. In this chatbot you can chat with bot and can clear your doubts.
